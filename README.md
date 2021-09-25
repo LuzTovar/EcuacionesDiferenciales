@@ -11,6 +11,6 @@
 - Orden de una ecuacion.
 -El orden de una ecuación diferencial es el indicado por el indice que aparece en la derivada más alta.
 
-- Varariables Separables
+- Varariables Separables.  
 -Se dice que una ecuación diferencial de primer orden, de la forma $ \dfrac{dy}{dx}=g(x).h(y)$ , es separable o de derivadas separables.
 ![](https://images.app.goo.gl/jXircvwH73LbcXxk7)
